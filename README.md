@@ -29,9 +29,11 @@ The LCD displays the temperature, people count and fan speed.
 
 - Arduino
 - Embedded C
-- Sensors
+- DHT11 Temperature Sensor
+- IR Sensor
 - PWM
-- IoT
+- I2C LCD
+- L298N Motor Driver
 
 ## Future Scope
 
