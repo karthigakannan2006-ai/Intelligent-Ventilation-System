@@ -1,8 +1,8 @@
-# IoT-Based Smart Ventilation System
+# Intelligent Ventilation System Using Arduino
 
 ## About the Project
 
-The IoT-Based Smart Ventilation System is designed to automatically
+The Intelligent Ventilation System is designed to automatically
 control fan speed based on temperature and the number of people inside
 the room.
 
